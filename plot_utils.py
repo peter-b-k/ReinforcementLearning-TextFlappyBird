@@ -1,6 +1,4 @@
-#Note: Below functions have been modified using the base functions borrowed from the supporting .py files provided
-#for 3MD4120: Reinforcement Learning at CentraleSupélec
-
+# Functions from class materials of "RL - Apprentissage par renforcement - CS - PARIS - SACLAY (2023-2024)"
 
 import pandas as pd
 import numpy as np
