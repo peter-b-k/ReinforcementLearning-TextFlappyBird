@@ -12,6 +12,7 @@ This project implements two reinforcement learning agents to play the text-based
 - `RL-Individual.ipynb`: The training, evaluation, and results for the two reinforcement learning algorithms.
 - `flappy_agents.py`: Contains the implementations of Monte Carlo and Expected Sarsa agents.
 - `plot_utils.py`: Utility functions.
+- `models`: saved agents and results for best agents. 
 
 ## Contributors
 
